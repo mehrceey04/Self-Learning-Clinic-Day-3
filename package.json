@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp-day-3",
+  "version": "1.0.0",
+  "description": "Solution to programming tasks for day 3",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrceey04/Self-Learning-Clinic-Day-3.git"
+  },
+  "author": "Halimat Mercy Oseni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehrceey04/Self-Learning-Clinic-Day-3/issues"
+  },
+  "homepage": "https://github.com/mehrceey04/Self-Learning-Clinic-Day-3#readme"
+}
