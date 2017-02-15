@@ -18,3 +18,5 @@ The `.search` function should implement the _binary search algorithm_. Each time
 >`[4,66,7]` and `[66,77,7,4]` should return `77`
 
 * GitHub repo containing a clone of a simple user interface created using HTML and CSS. (No test is written for this)
+>I designed a simple user interface with about 4 pages. You can find the html files in the root folder
+### For the Front-end task, I designed a simple UI with HTML, CSS and I also used wowslider, to create slides. All files for this task are in Front-End directory.
